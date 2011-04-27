@@ -1,0 +1,5 @@
+ln -sf $HOME/Development/vimconfig/gvimrc    $HOME/.gvimrc
+ln -sf $HOME/Development/vimconfig/vim       $HOME/.vim
+ln -sf $HOME/Development/vimconfig/vim-fuf-data $HOME/.vim-fuf-data
+ln -sf $HOME/Development/vimconfig/viminfo   $HOME/.viminfo
+ln -sf $HOME/Development/vimconfig/vimrc     $HOME/.vimrc
